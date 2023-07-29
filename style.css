@@ -1,0 +1,108 @@
+.one{
+  
+ text-align: center;
+ margin: 0;
+ padding: 0;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-weight: bold;
+ background-color: #675886;
+border: solid black 5.5px;
+ 
+}
+img{
+    border-radius: 50%;
+    border: solid rgba(0, 0, 0, 0.981) 5px;
+    
+}
+.one1{
+ 
+    background-color: rgb(57, 57, 93);
+    color: beige;
+  
+    display: inline-block;
+    margin: 3px;
+    padding:10px ;
+    border: solid black 3.5px;
+}
+
+.two{
+   
+    display: inline-block;
+    border: solid black 3px ;
+    margin: 3px;
+    padding: 5px;
+    display: inline-block;
+    background-color: #d902ee;
+    color: white;
+    width: 500px;
+   
+}
+.three{
+    border: solid black 3px;
+    margin: 3px;
+    padding: 5px;
+    background-color: #d902ee;
+    color: white;
+    display: inline-block;
+  
+}
+.four{
+    border: solid black 3px;
+    margin: 3px;
+    padding: 5px;
+    background-color: #f162ff;
+    color: white;
+   width: 500px;
+   
+   display: inline-block;
+}
+
+.five{
+    border:solid black 3px ;
+    margin: 3px;
+    padding: 5px;
+    background-color: #f162ff;
+    color: white;
+    display: inline-block;
+   
+}
+
+.other{
+    border: solid black 4px;
+    margin: 3px;
+    padding: 5px;
+    background-color:#f162ff;
+    color: white;
+    display: inline-block;
+}
+
+.last{
+    text-align: center;
+    font: medium;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(62, 46, 90);
+    color: white;
+    margin: 3px;
+    padding: 0;
+}
+body{
+    background-color: #320d3e;
+    border: dashed white 3px;
+}
+
+#name{
+    background-color: #8d589f;
+    font-family: sans-serif;
+    font-weight: bold;
+ 
+  border-radius: 10px;
+  border: solid;
+ 
+}
+
+.end{
+    background-color: #3d1c7f65;
+    border-radius: 50px;
+    @import url('https://unpkg.com/css.gg@2.0.0/icons/css/arrow-long-right-e.css');
+}
